@@ -1,1 +1,1 @@
-# Excel-Project
+This Project contains a comprehensive data analysis of DHL’s logistics performance, specifically tracking the movement of health commodities.The goal was to transform raw shipping records into actionable insights that can improve supply chain resilience and reduce operational overhead.
